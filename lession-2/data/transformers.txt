@@ -1,0 +1,5 @@
+The Transformer is a neural network architecture based primarily on
+attention mechanisms. Transformers process relationships between tokens
+using self-attention.
+
+Large language models such as GPT are based on the Transformer architecture.
