@@ -1,0 +1,6 @@
+An AI agent is a system that uses a language model to decide what actions
+to take in order to accomplish a goal. Agents can use tools such as
+search engines, databases, calculators, APIs, and retrieval systems.
+
+An agent typically follows a loop involving reasoning, action, observation,
+and further reasoning.

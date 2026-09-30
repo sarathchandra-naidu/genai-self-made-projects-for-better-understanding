@@ -1,0 +1,6 @@
+An embedding is a numerical representation of data such as text.
+Embedding models transform text into vectors so that semantically similar
+pieces of text have similar vector representations.
+
+Embeddings are commonly used for semantic search, recommendation systems,
+clustering, and retrieval-augmented generation.
